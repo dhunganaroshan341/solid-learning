@@ -1002,7 +1002,7 @@ Become an engineer who can:
 - Build scalable production applications
 ```
 
-I would put this at:
+
 
 ```
 SOLID-Learning/
